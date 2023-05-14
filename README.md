@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BlackJay</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
+<a href="https://app.daily.dev/xzsblackjay"><img src="https://api.daily.dev/devcards/1889e7a5571448358e29f13bd6021b12.png?r=n0c" width="400" alt="BlackJay's Dev Card"/></a>
+
 - 🌱 I’m currently learning **Nextjs**
 
 - 📫 How to reach me **xzsblackjay@gmail.com**
